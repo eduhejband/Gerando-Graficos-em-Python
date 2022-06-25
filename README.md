@@ -1,4 +1,4 @@
-# EstudoDeProcessamentoGraficoEmPython - Bibliografia
+# EstudoDeProgramaçãoDeGraficosEmPython - Bibliografia
 
 
 
